@@ -1,0 +1,26 @@
+{
+	"programme_officers": [
+		{
+			"name": "Dr. Jyoti Shetty",
+			"contact": "+91 95359 58989",
+			"email": "shetty.jyoti@manipal.edu"
+		},
+		{
+			"name": "Dr. Vinod Hegde",
+			"contact": "+91 91136 23026",
+			"email": "hegde.vinod@manipal.edu"
+		}
+	],
+	"unit_heads": [
+		{
+			"name": "Nishanth Nithyananda Shet",
+			"contact": "+91 63601 51894",
+			"email": "nishanth.mitblr2022@learner.manipal.edu"
+		},
+		{
+			"name": "Tarunika D",
+			"contact": "+91 98841 04295",
+			"email": "tarunika.mitblr2022@learner.manipal.edu"
+		}
+	]
+}
